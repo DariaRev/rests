@@ -1,0 +1,120 @@
+country,residents of,passengers arriving from,,Stringency Index (max=100)
+Croatia,"Andorra, Austria, Belgium, Bulgaria,
+Croatia, Cyprus, Czechia, Denmark, Estonia, Finland,
+France, Germany, Greece, Hungary, Iceland, Ireland
+(Rep.), Italy, Latvia, Liechtenstein, Lithuania,
+Luxembourg, Malta, Monaco, Netherlands, Norway,
+Poland, Portugal, Romania, San Marino, Slovakia,
+Slovenia, Spain, Sweden, Switzerland and Vatican City,Australia, Israel, Japan, Korea (Rep.),
+New Zealand, Rwanda, Singapore and Thailand
+",-,,
+Macedonia,"вообще все открыто всем, даже без тестов! interesting you know))",,,-
+Montenegro,all,-,,-
+Serbia,"Serbia, Slovenia, Kosovo","Albania, Bosnia and Herzegovina, Bulgaria, Hungary, Kosovo, Montenegro, Macedonia, USA",,32.41
+Slovenia,-,-,,35.19
+"Bosnia and Herzegovina, Croatia, Montenegro and Serbia","Bosnia and Herzegovina, Croatia, Montenegro, Serbia","Austria, Belgium, Bulgaria, Croatia, Cyprus,
+Czechia, Denmark, Estonia, Finland, France, Germany,
+Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia,
+Liechtenstein, Lithuania, Luxembourg, Malta,
+Netherlands, Norway, Poland, Portugal, Romania,
+Slovakia, Slovenia, Spain, Sweden, Switzerland or
+United Kingdom",,37.04
+Iceland,"Iceland, Andorra, Monaco, San Marino,
+Switzerland, Vatican City (Holy See) and EEA Member
+States, ","Australia, Israel, Japan, Korea (Rep.),
+New Zealand, Rwanda, Singapore and Thailand",,37.96
+Estonia,"Andorra, Australia, Austria, Belgium,
+Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia,
+Finland, France, Germany, Greece, Hungary, Iceland,
+Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein,
+Lithuania, Luxembourg, Malta, Monaco, Netherlands,
+New Zealand, Norway, Poland, Portugal, Romania,
+Rwanda, San Marino, Singapore, Slovakia, Slovenia,
+Spain, Sweden, Switzerland, Thailand, United Kingdom
+or Vatican City (Holy See)",,done,38.89
+San Marino,"Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland","UK, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland",,38.89
+Czech Republic,done,,,38.89
+Kosovo,Kosovo,-,,40.74
+Belarus,Belarus,"Afghanistan, Andorra, Angola, Antigua and Barbuda, Argentina, Armenia, Bahamas, Bahrain, Barbados, Belgium, Belize, Benin, Bhutan, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Burkina Faso, Cambodia, Cameroon, Canada, Cape Verde, Central African Republic, Chad, Chile, Colombia, Congo (Democratic Republic of Congo), Congo (Republic of the Congo), Costa Rica, Cote d’Ivoire, Croatia, Czechia, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, France, Gabon, Gambia, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, India, Iran, Israel, Jamaica, Jordan, Kenya, Kenya, Kuwait, Kyrgyzstan, Laos, Lebanon, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Mali, Malta, Mauritania, Mexico, Moldova, Montenegro, Morocco, Mozambique, Myanmar, Namibia, Nepal, Netherlands, Nicaragua, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Republic of North Macedonia, Romania, Rwanda, Saint Lucia, Saudi Arabia, Senegal, Seychelles, Slovakia, Slovenia, Somalia, South Africa, Spain, St Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syria, Timor-Leste, Togo, Trinidad and Tobago, Tunisia, Uganda, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Zambia or Zimbabwe",,42.59
+Andorra,all,restrictions of Spain or France (depends on which one transits through in order to enter Andorra),,43.52
+Lithuania,,,done,44.44
+Liechtenstein,all,all,,45.37
+Luxemburg,"Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, Vatican, Australia, Japan, Korea, New Zealand, Rwanda, Singapore, Thailand","Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechenstein, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Sloveina, Spain, Sweden, Switzerland",,45.37
+Albania,ничего нет,,,46.30
+Romania,all,"Andorra, Argentina,
+Bahrain, Belgium, Bolivia, Botswana, Brazil, Cape
+Verde, Chile, Colombia, Costa Rica, Denmark,
+Dominican Rep., France, Georgia, Greece, Guyana,
+India, Iran, Kuwait, Latvia, Lithuania, Malaysia,
+Maldives, Mongolia, Namibia, Nepal, Netherlands,
+‘Oman, Panama, Paraguay, Peru, Puerto Rico,
+Seychelles, Slovenia, South Africa, Sri Lanka, St.
+Maarten, Suriname, Sweden, Timor-Leste, Trinidad and
+‘Tobago, Tunisia, United Arab Emirates, United
+Kingdom, Uruguay or Virgin Isl. (USA)",,48.15
+Bulgaria,all,,,48.15
+Switzerland,residents of shengen,"Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland, Israel, Korea, Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand, Vatican",,48.15
+Russia - 49.07,,,,
+Finland,здесь только жители этих стран (там обозначено nationals / residents of),"здесь откуда можно приехать (неважно, гражданин ты или нет)",done,49.54
+Latvia,"Latvia, Austria, Belgium, Bulgaria, Croatia,
+Cyprus, Czechia, Denmark, Estonia, Finland, France,
+Germany, Greece, Hungary, Iceland, Ireland (Rep.),
+ttaly, Liechtenstein, Lithuania, Malta, Monaco,
+Netherlands, Norway, Poland, Portugal, Romania, San
+Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or Vatican City ","Austria, Belgium, Bulgaria,
+Croatia, Cyprus, Czechia, Denmark, Estonia, Finland,
+France, Germany, Greece, Hungary, Iceland, Ireland
+(Rep.), Italy, Liechtenstein, Lithuania, Malta, Monaco,
+Netherlands, Norway, Poland, Portugal, Romania, San
+Marino, Slovakia, Slovenia, Spain, Sweden,
+Switzerland, United Kingdom or Vatican City ",done,50
+Slovakia,-,-,,50
+Belgium,done,,,50.93
+Monaco - 50.93,,,,
+France,done,,,51.85
+Malta,Malta,"Andorra, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Jordan, Korea, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Monaco, Netherlands, New Zealand, Norway, Puerto Rico, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Turkey, United Arab Emirates, UK, USA",,52.78
+Poland,done,,,53.7
+Spain,"Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Sweden, Switzerland, Vatican, Australia, Japan, Korea, New Zealand, Rwanda, Singapore, Thailand","Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia,Sweden, Switzerland",,54.17
+Sweden,,,done,54.63
+Denmark,done,,,55.56
+Cyprus,"Cyprus, Austria, Belgium, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland","Andorra, Armeina, Austria, Belarus, Belgium, Bulgaria, Canada, China, Croatia, Czechia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russia, Rwanda, San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, USA, Ukraine, United Arab Emirates, UK, Vatican",,56.48
+Portugal,"Portugal, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland","Australia, Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany,
+Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Macao, Malta, Netherlands, New Zealand, Norway, Poland, Romania, Rwanda, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, United Kingdom, USA",,56.48
+Ukraine,all,all except those who stayed in India for the last 7 days,,57.41
+Norway,Norway,"Denmark (Greenland), certain hospital districts in Finland or Iceland",,59.26
+Austria,"Austria, Belgium, Bulgaria, Croatia,
+Cyprus, Czechia, Denmark, Estonia, Finland, France,
+Germany, Greece, Hungary, Iceland, Ireland (Rep.),
+Italy, Latvia, Liechtenstein, Lithuania, Luxembourg,
+Malta, Netherlands, Norway, Poland, Portugal,
+Romania, Slovakia, Slovenia, Spain, Sweden and
+Switzerland","Andorra, Australia, Belgium,
+Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia,
+Finland, France, Germany, Greece, Hungary, Iceland,
+Ireland (Rep.), Israel, Italy, Korea (Rep.), Latvia,
+Liechtenstein, Lithuania, Luxembourg, Malta, Monaco,
+Netherlands, New Zealand, Norway, Poland, Portugal,
+Romania, San Marino, Singapore, Slovakia, Slovenia,
+Spain, Sweden, Switzerland or Vatican City ",,60.19
+Greece,"Austria, Belgium, Bulgaria, Croatia,
+Cyprus, Czechia, Denmark, Estonia, Finland, France,
+Germany, Greece, Hungary, Iceland, Ireland (Rep.),
+Italy, Latvia, Liechtenstein, Lithuania, Luxembourg,
+Malta, Netherlands, Norway, Poland, Portugal,
+Romania, Slovakia, Slovenia, Spain, Sweden and
+Switzerland, UK, Australia, Bahrain, Belarus,
+Bosnia and Herzegovina, Canada, China (People's
+Rep.), Israel, Korea (Rep.), Kuwait, Montenegro, New
+Zealand, North Macedonia (Rep), Qatar, Russian Fed.,
+Rwanda, Saudi Arabia, Serbia, Singapore, Thailand,
+USA, Ukraine and United Arab Emirates",-,,62.04
+UK - 62.50,,,,
+Turkey,-,"Afganistan, Bangladesh, Brazil, Egypt, India, Iran, Nepal, Pakistan, Singapore, South Africa, Sri Lanka, UK",,63.43
+Georgia - 64.81,,,,
+Hungary,Hungary,-,,66.67
+Netherlands,"Netherlands, UK, Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, Australia, Japan, Korea, New Zealand, Rwanda, Singapore, Thailand, Uruguaz","Aruba, Australia, Austria, Bonaire, Bulgaria, China, Croatia, Curacao, Cyprus, Czechia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Liechenstein, Luxembourg, Korea, Macao, Malta, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, San Marino, Singapore, Slovakia, Spain, Switzerland, Thailand",,67.59
+Moldova,"ничего нет, только про тест",,,67.59
+Azerbaijan - 69.44,,,,
+Italy,done,,,71.3
+Ireland,-,"all, but negative covid test",,74.07
+Germany,done,,,75
